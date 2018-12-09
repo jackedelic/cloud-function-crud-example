@@ -10,7 +10,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d581f5a8-2cf5-44f1-9098-7722f43ec5f4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/lib/assets/usecase.gif" afterPath="$PROJECT_DIR$/lib/assets/usecase.gif" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />

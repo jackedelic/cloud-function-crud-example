@@ -1,8 +1,2 @@
-# cloud_function_example
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img src="https://raw.githubusercontent.com/iamjackslayer/cloud-function-crud-example/master/lib/assets/usecase.gif" width="250" height="380" />
