@@ -111,7 +111,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   final DocumentSnapshot userDoc = snapshot.data.documents[index];
 
                   return Dismissible(
-                    key: new GlobalObjectKey(snapshot.data.documents[index]),
+                    key: new Key(snapshot.data.documents[index].toString()),
                     direction: DismissDirection.horizontal,
                     onDismissed: (DismissDirection direction) {
                       Firestore.instance.collection('users').document(userDoc.documentID).delete();
